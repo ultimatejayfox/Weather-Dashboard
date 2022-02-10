@@ -138,7 +138,7 @@ var weatherHTML = function (city, uv) {
         var ctn4  = document.createElement("div");     
         //div classes
         ctn4.classList.add("card");                     
-        ctn4.classList.add("bg-primary");               
+        ctn4.classList.add("bg-dark");               
         ctn4.classList.add("text-white");               
         ctn4.classList.add("rounded");                  
         ctn4.classList.add("mr-2");                     
