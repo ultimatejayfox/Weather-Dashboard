@@ -10,9 +10,10 @@ features
 -fetches weather conditions
 
 screenshot
+![Web capture_10-2-2022_0023_127 0 0 1](https://user-images.githubusercontent.com/96092354/153340483-26581acd-dccb-4709-99e6-cbf8b0b9f226.jpeg)
 
 
-Deployment
+Link - https://github.com/ultimatejayfox/Weather-Dashboard
 
 
 
